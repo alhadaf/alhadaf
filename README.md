@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?alhadaf=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm Ali Mhanna</h1>
 <h3 align="center">A passionate Software Engineer From Lebanon</h3>
 
@@ -29,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhadaf&show_icons=true&locale=en" alt="alhadaf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alhadaf&" alt="alhadaf" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?alhadaf=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?alhadaf=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
