@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- I’m currently in college studying Computer Science **Computer Scinece**
+- 🌱I’m currently in college studying Computer Science **Computer Scinece**
 
 - 📫 How to reach me **alimhsijo@gmail.com**
 
