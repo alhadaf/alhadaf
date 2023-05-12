@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?alhadaf=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hi 👋, I'm Ali Mhanna</h1>
 <h3 align="center">A passionate Software Engineer From Lebanon</h3>
