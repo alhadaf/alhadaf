@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alhadaf&" alt="alhadaf" /></p>
 [![trophy](https://github-profile-trophy.vercel.app/?alhadaf=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?alhadaf=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
